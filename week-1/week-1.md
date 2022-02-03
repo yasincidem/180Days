@@ -22,7 +22,7 @@ There have been many approaches to solving this problem
   * https://twitter.com/androiddevnotes/status/1346433566465433601
   
   * Flow
-     * Orange
+     * https://manuelvivo.dev/simplifying-apis-coroutines
      
   * Testing
      * Orange
